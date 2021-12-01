@@ -1,0 +1,17 @@
+.RData
+.RDatatmp
+.Rhistory
+.Rapp.history
+
+.Rprofile
+.env
+
+# local data for analysis
+data/*
+
+_targets/
+
+figures/*
+
+!data/df_resp.rds
+!data/synthetic_patient_diagnoses.csv
